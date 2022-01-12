@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAMdhanjal
+- 👋 Hi, I’m @Sanmeet Singh
 - 👀 I’m interested in making good projects P.S I am beginner 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything
